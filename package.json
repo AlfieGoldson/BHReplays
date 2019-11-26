@@ -1,0 +1,19 @@
+{
+  "name": "bhreplays",
+  "version": "0.0.1",
+  "description": "BH Replays",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlfieGoldson/BHReplays.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlfieGoldson/BHReplays/issues"
+  },
+  "homepage": "https://github.com/AlfieGoldson/BHReplays#readme"
+}
