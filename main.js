@@ -13,4 +13,5 @@ function decompile(buff) {
 }
 
 const buff = fs.readFileSync('[3.52] Replay.replay');
-console.log(decompile(buff));
+const decomp = decompile(buff);
+console.log(buff.indexOf('174'));
